@@ -2,6 +2,7 @@ package api
 
 import (
 	"encoding/json"
+
 	"github.com/flexphere/discord-gorilla-cli/util"
 
 	"github.com/charmbracelet/bubbles/list"
