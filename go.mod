@@ -1,4 +1,4 @@
-module gorilla
+module github.com/flexphere/discord-gorilla-cli
 
 go 1.18
 

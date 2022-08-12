@@ -5,8 +5,8 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"gorilla/api"
-	"gorilla/util"
+	"github.com/flexphere/discord-gorilla-cli/api"
+	"github.com/flexphere/discord-gorilla-cli/util"
 )
 
 var docStyle = lipgloss.NewStyle().Margin(1, 2)

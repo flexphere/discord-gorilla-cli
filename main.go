@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"gorilla/api"
-	inputComponent "gorilla/component/input"
-	listComponent "gorilla/component/list"
+	"github.com/flexphere/discord-gorilla-cli/api"
+	inputComponent "github.com/flexphere/discord-gorilla-cli/component/input"
+	listComponent "github.com/flexphere/discord-gorilla-cli/component/list"
 
 	"github.com/charmbracelet/bubbles/list"
 	tea "github.com/charmbracelet/bubbletea"
